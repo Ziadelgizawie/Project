@@ -1,0 +1,51 @@
+hi:hi
+ziad:ali
+hii:hi
+goal:keeper
+hi:hi
+hi:Hello! How can I assist you today?
+hello:Hi there! How can I help?
+good morning:Good morning! How can I assist you today?
+good afternoon:Good afternoon! How can I help you today?
+good evening:Good evening! How can I assist you today?
+how are you?:I'm just a computer program, but thanks for asking!
+what’s up?:Not much, just here to help. What can I do for you?
+how’s it going?:It's going well, thank you! How can I assist you today?
+how have you been?:I'm always here, ready to help. How can I assist you today?
+I’m feeling great!:That’s wonderful to hear!
+I’m so happy today!:I'm glad to hear you're happy! How can I help?
+Everything is going well:That's great! If you need anything, just ask.
+I’m excited about this!:Awesome! What are you excited about?
+I feel fantastic!:That's great to hear! How can I assist you today?
+I’m feeling down:I'm sorry to hear that. How can I help?
+I’m so tired:It sounds like you need some rest. Can I help with anything else?
+I’ve had a rough day:I'm sorry to hear that. Is there anything I can do to help?
+I’m not feeling well:I'm sorry you're not feeling well. How can I assist you?
+I’m feeling a bit stressed:I'm here to help. Can I provide any assistance or advice?
+What is your name?:I’m a chatbot here to assist you with whatever you need.
+Can you help me with something?:Of course! What do you need help with?
+What can you do?:I can help with a variety of tasks. What do you need?
+How do I use this?:Just type your message and I'll do my best to assist you.
+Can you tell me a joke?:Sure! Why did the scarecrow win an award? Because he was outstanding in his field!
+Can you help me?:Absolutely! What can I assist you with?
+I need some assistance:I'm here to help. What do you need assistance with?
+Please help me with this issue:Of course! What’s the issue you’re facing?
+Can you provide some guidance?:I’d be happy to help. What do you need guidance on?
+I’m looking for some advice:Sure, what kind of advice are you looking for?
+bye:Goodbye! Take care.
+goodbye:Goodbye! Have a great day.
+see you later:See you later! If you need anything, just ask.
+take care:Take care! I'm here if you need help.
+thanks for your help:You're welcome! If you need anything else, just let me know.
+I appreciate it:I'm glad I could help! If you need more assistance, feel free to ask.
+have a nice day:Thank you! Have a nice day too!
+blablabla:I'm not sure what you mean by that. Can you provide more details?
+asdfghjkl:It looks like you entered random text. How can I assist you?
+random text:I’m not sure what you mean. Can you clarify?
+unknown words:I don’t understand that. Could you rephrase or ask something else?
+just typing random stuff:I’m here to help with specific questions or issues. How can I assist you?
+What is your purpose?:My purpose is to assist you with your questions and tasks.
+How do you work?:I use programmed responses and learning to assist with your needs.
+What are your capabilities?:I can help with various tasks and answer questions.
+Can you perform tasks?:Yes, I can perform a range of tasks based on my programming.
+What can you do for me?:I can assist with information, tasks, and answering questions.
